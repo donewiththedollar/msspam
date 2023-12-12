@@ -1,2 +1,2 @@
-# msftsploit
+# msspam
 Still a vuln
